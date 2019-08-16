@@ -1,0 +1,2 @@
+./vendor/bin/jigsaw build
+cp -R build_local/ ../jp-pino.github.io/

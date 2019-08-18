@@ -1,16 +1,16 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://jp-pino.github.io/',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'Juan Pablo Pino',
+    'siteDescription' => 'Project showcase',
+    'siteAuthor' => 'Juan Pablo Pino Bravo',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
+            'author' => 'Juan Pablo Pino', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],

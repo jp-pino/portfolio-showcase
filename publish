@@ -1,2 +1,16 @@
-./vendor/bin/jigsaw build
-cp -R build_local/ ../jp-pino.github.io/
+#!/bin/bash
+
+if [ $# -eq 1 ]
+then
+  ./vendor/bin/jigsaw build
+  cp -Rf build_local/ ../jp-pino.github.io/
+  cd ../jp-pino.github.io
+  mv 404/index.html 404.html
+  rm -rf 404
+  git add .
+  git commit -m "$1"
+  git push
+  cd ../portfolio-showcase
+else
+  echo "error: commit message required"
+fi

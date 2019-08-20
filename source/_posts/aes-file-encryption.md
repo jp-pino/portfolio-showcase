@@ -4,7 +4,7 @@ section: content
 title: AES
 date: 2019-08-18
 description: AES - Rijndael
-cover_image: /assets/img/encrypt.jpg
+cover_image: /assets/img/aes-cover.png
 categories: [projects]
 ---
 

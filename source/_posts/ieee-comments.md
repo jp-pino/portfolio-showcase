@@ -4,7 +4,7 @@ section: content
 title: Robotic Vision
 date: 2019-08-18
 description: Comments on paper from IEEE Transactions on Robotic Vision
-cover_image: /assets/img/ieee-computer-vision.jpg
+cover_image: /assets/img/ieee-computer-vision.png
 categories: [homework]
 ---
 

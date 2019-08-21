@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: Image Processing Applications
+title: Image Processing
 date: 2019-08-18
 description: Comments on paper from IEEE Transactions on Image Processing
 cover_image: /assets/img/ieee-computer-vision.png

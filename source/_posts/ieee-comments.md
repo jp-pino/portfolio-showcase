@@ -1,9 +1,9 @@
 ---
 extends: _layouts.post
 section: content
-title: Robotic Vision
+title: Image Processing Applications
 date: 2019-08-18
-description: Comments on paper from IEEE Transactions on Robotic Vision
+description: Comments on paper from IEEE Transactions on Image Processing
 cover_image: /assets/img/ieee-computer-vision.png
 categories: [homework, robotic-vision]
 ---

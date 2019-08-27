@@ -5,7 +5,7 @@ title: mopiOS
 date: 2019-08-16
 description: RTOS for Embedded Systems
 cover_image: /assets/img/mopiOS.png
-featured: true
+featured: false
 categories: [projects, featured, mopiOS]
 ---
 

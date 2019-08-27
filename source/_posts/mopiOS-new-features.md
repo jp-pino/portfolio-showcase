@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: New Features!
-date: 2019-08-16
+date: 2019-08-27
 description: New features for mopiOS
 cover_image: /assets/img/mopiOS.png
 featured: true

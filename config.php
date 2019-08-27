@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://jp-pino.github.io/',
+    'baseUrl' => '',
     'production' => false,
     'siteName' => 'Juan Pablo Pino',
     'siteDescription' => 'Project showcase',

@@ -97,6 +97,7 @@ hr {
 }
 
 li {
+		@apply .my-1;
     ul,
     ol {
         @apply .my-0;
@@ -105,7 +106,9 @@ li {
 
 ol,
 ul {
+		@apply .list-disc;
     @apply .my-4;
+		@apply .ml-8;
 }
 
 p {
